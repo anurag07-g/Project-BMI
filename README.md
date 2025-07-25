@@ -79,26 +79,6 @@ open index.html  # or double-click it
 
 ---
 
-## 🤝 Contributing
-
-Contributions and suggestions are welcome!
-
-```bash
-# Fork it
-# Create your feature branch
-git checkout -b feature/yourFeatureName
-
-# Commit your changes
-git commit -m "Add your message"
-
-# Push to the branch
-git push origin feature/yourFeatureName
-
-# Create a new Pull Request
-```
-
----
-
 ## 📬 Contact
 
 Made with 💙 by **[@anurag07-g](https://github.com/anurag07-g)**  
@@ -108,4 +88,4 @@ Feel free to star ⭐ and share the project!
 
 ## 📄 License
 
-MIT License. See `LICENSE` file for more info.
+MIT License. See `LICENSE` @anurag07-g
