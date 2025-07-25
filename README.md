@@ -25,16 +25,6 @@ Coming Soon...
 
 ---
 
-## 📂 Project Structure
-
-```
-Project-BMI/
-├── index.html         # Main HTML file
-├── style.css          # CSS styling
-├── script.js          # BMI calculation logic
-└── README.md          # This README file
-```
-
 ---
 
 ## 🖥️ How to Use
