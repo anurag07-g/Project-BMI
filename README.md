@@ -21,7 +21,7 @@ A lightweight, user-friendly web app to calculate and interpret Body Mass Index 
 
 ## 🚀 Live Demo
 
-Coming Soon... *(You can deploy it using GitHub Pages or Netlify)*
+Coming Soon... 
 
 ---
 
