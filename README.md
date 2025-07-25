@@ -25,8 +25,6 @@ Coming Soon...
 
 ---
 
----
-
 ## 🖥️ How to Use
 
 ### 1. Clone this repository
